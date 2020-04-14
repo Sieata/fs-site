@@ -360,7 +360,7 @@ body.royal_preloader {
 	width:166px;
 	height:29px;
 	top:32px;
-	background:url('https://cdn.jsdelivr.net/gh/sieata/fs-site@v1.0/images/logo.png') no-repeat center center;
+	background:url('../images/logo.png') no-repeat center center;
 	background-size:156px 27px;
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
@@ -407,8 +407,7 @@ ul.slimmenu li ul {
 	height:38px;
 	z-index:10000;
 	top:50px;
-	background:url('https://cdn.jsdelivr.net/gh/sieata/fs-site@v1.0/images/logo.png') no-repeat center center;
-	/* background:url('../images/logo.png') no-repeat center center; */
+	background:url('../images/logo.png') no-repeat center center;
 	/* background-size:134px 25px; */
 	background-size: 220px 38px;
 	-webkit-transition : all 0.3s ease-out;
@@ -2584,7 +2583,7 @@ figure.vimeo a img, figure.youtube a img {
 	height:15px;
 	left:10px;
 	top:30px;
-	background:url('https://cdn.jsdelivr.net/gh/sieata/fs-site@v1.0/images/logo.png') no-repeat center center;
+	background:url('../images/logo.png') no-repeat center center;
 	background-size:80px 15px;
 }
 .cbp-af-header.cbp-af-header-shrink .logo{
@@ -2592,7 +2591,7 @@ figure.vimeo a img, figure.youtube a img {
 	height:15px;
 	left:10px;
 	top:30px;
-	background:url('https://cdn.jsdelivr.net/gh/sieata/fs-site@v1.0/images/logo.png') no-repeat center center;
+	background:url('../images/logo.png') no-repeat center center;
 	background-size:80px 15px;
 	-webkit-transition : all 0.5s ease-out;
 	-moz-transition : all 0.5s ease-out;
