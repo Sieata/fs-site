@@ -407,7 +407,8 @@ ul.slimmenu li ul {
 	height:38px;
 	z-index:10000;
 	top:50px;
-	background:url('../images/logo.png') no-repeat center center;
+	background:url('https://cdn.jsdelivr.net/gh/sieata/fs-site@v1.0/images/logo.png') no-repeat center center;
+	/* background:url('../images/logo.png') no-repeat center center; */
 	/* background-size:134px 25px; */
 	background-size: 220px 38px;
 	-webkit-transition : all 0.3s ease-out;
